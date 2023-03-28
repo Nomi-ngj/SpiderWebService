@@ -5,7 +5,7 @@ SpiderWebService is a lightweight Swift package for making basic HTTP requests a
 
 ## Installation
 
-You can install RESTKit using the Swift Package Manager. To add RESTKit to your Xcode project, select File > Swift Packages > Add Package Dependency, and enter the following URL:
+You can install SpiderWebService using the Swift Package Manager. To add SpiderWebService to your Xcode project, select File > Swift Packages > Add Package Dependency, and enter the following URL:
 
 ```swift
 https://github.com/Nomi-ngj/SpiderWebService
