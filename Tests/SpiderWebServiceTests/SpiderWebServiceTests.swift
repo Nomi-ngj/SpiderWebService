@@ -9,13 +9,3 @@ final class SpiderWebServiceTests: XCTestCase {
         }
     }
 }
-
-struct MockDecodable: Decodable {
-    let name: String
-}
-
-struct MockRequest: Request {
-    typealias RemoteModel = MockDecodable
-    var url: URL? { "https://www.google.com" }
-    var method: HTTPMethod { .get }
-}

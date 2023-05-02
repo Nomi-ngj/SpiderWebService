@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "8EC07A31-DCF1-435A-BF99-3F3D39299E33",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "SpiderWebServiceTests",
+        "name" : "SpiderWebServiceTests"
+      }
+    }
+  ],
+  "version" : 1
+}
